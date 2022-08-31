@@ -1,1 +1,3 @@
-Danny _home
+#!/bin/bash
+ls -1
+
